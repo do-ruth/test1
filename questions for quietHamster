@@ -1,0 +1,12 @@
+1. Is there a way to make branches on the git terminal so that it will show up in GitHub?
+  a. If so, how do I do that? I know I can do "git branch" and make my own branch on my local machine but it doesn't appear on GitHub.
+  b. If not, do I just manually make branches?
+  c. I think I'm just confused about the branches part now but I've got a decent handle on the basic git commands
+  
+2. If I shoudln't use an IDE to build code, then what should I use? Something like Atom?
+
+3. I may change my project to something else hahaha I hope that's okay
+  a. I want to go more simple so I can get used to using GitHub since I think that's more important
+  b. I'm thinking of creating a random number generator that the user can customize
+    i - they can choose the interval
+    ii - they can choose how many numbers the system will return
